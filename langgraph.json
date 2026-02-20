@@ -1,7 +1,7 @@
 {
   "dockerfile_lines": [],
   "graphs": {
-    "prompt_based_rag_agent": "./PromptBasedAgent.py:graph"
+    "prompt_based_agent": "./PromptBasedAgent.py:graph"
   },
   "env": "./.env",
   "python_version": "3.12",
